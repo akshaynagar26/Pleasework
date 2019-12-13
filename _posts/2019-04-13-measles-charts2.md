@@ -13,7 +13,10 @@ toc_sticky: true
 
 This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
 
-
+```python
+import altair as alt
+alt.renderers.enable('notebook')
+```
 
 ## Holoviews Example
 
