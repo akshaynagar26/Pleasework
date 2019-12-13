@@ -6,7 +6,7 @@ tags: [dataviz, altair, hvplot, holoviews]
 excerpt: "Embedding interactive charts on static pages using Jekyll."
 
 hv-loader:
-  hv-chart-1: "gapminderChart.html"
+  hv-chart-1: "charts/gapminderChart.html"
 toc: true
 toc_sticky: true
 ---
