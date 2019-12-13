@@ -18,7 +18,6 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale: "en-US"
 title: "MUSA 620: Project Try"
 title_separator: "-"
-name: "Akshay Nagar"
 description: "Displaying cool data visualizations"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -105,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Nick Hand"
+  name: "Akshay Nagar"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "Architect & MUSA 2020 Candidate"
   location: "Philadelphia"
   email:
   links:
