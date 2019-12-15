@@ -22,7 +22,7 @@ alt.renderers.enable('notebook')
 
 Lastly, the measles incidence produced using the Holoviews package:
 
-<div id="vis"></div>
+<div id="hv-chart-1"></div>
 
 ## Notes
 
