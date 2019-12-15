@@ -1,9 +1,9 @@
 ---
-title: "City Analytics"
+title: "Philadelhpia, Machine Learning City Analytics"
 date: 2019-04-13
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "City_wise_Data"
+excerpt: "An Extensive Machine Learning Exercise for different time periods as well as different price bracket"
 
 hv-loader:
   hv-chart-11: "charts/gapminderChart.html"
