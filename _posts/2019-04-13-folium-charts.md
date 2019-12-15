@@ -5,22 +5,27 @@ published: true
 tags: [dataviz, folium]
 excerpt: "A glimpse into walkability of Philadelphia"
 folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "400"]
-  folium-chart-2: ["charts/percent_no_internet.html", "400"]
+  folium-chart-1: ["charts/route1.html", "400"]
+  folium-chart-2: ["charts/route2.html", "400"]
+  folium-chart-2: ["charts/route3.html", "400"]
 toc: true
 toc_sticky: true
 ---
 
-This post will show examples of embedding interactive maps produced using [Folium](https://github.com/python-visualization/folium).
+This Page shows walking routes between some key areas they are about 10-20 minutes far walking between these areas, while Logan Square and Rittenhouse Square are important expensive key real estate areas, University of Pennsylvania for the most part of the year provides good yield or rent options and oppurtunities for commerical development as well as Student housing.
 
-## OSMnx and Street Networks
+## Walking Between Logan Square & University of Pennsylvania
 
 The shortest route between Spring Garden Station and Frankford Hall:
 
 <div id="folium-chart-1"></div>
 
-## Percentage of Households without Internet
+## Walking Between Logan Square & Rittenhouse Square
 
 <div id="folium-chart-2"></div>
 
-See the [week 9 lecture slides](https://github.com/MUSA-620-Fall-2019/week-9/blob/master/lecture-9.ipynb) for the code that produced these plots.
+## Walking Between Rittenhouse Square & University of Pennsylvania
+
+<div id="folium-chart-3"></div>
+
+
