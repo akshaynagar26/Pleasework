@@ -1,9 +1,9 @@
 ---
-title: "Click Here"
+title: "City Analytics"
 date: 2019-04-13
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "Embedding interactive charts on static pages using Jekyll."
+excerpt: "City_wise_Data"
 
 hv-loader:
   hv-chart-11: "charts/gapminderChart.html"
