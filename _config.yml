@@ -16,7 +16,7 @@ minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: "en-US"
-title: "MUSA 620: Real Estate Analytics & CSR (Private & Public sector)"
+title: "MUSA 620: Real Estate Analytics & Related CSR (Private & Public sector)"
 title_separator: "Musa-"
 description: "Displaying informative data visualizations"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
