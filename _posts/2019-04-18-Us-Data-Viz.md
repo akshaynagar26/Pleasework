@@ -12,7 +12,6 @@ hv-loader:
   hv-chart-5: "charts/5.html"
   hv-chart-6: "charts/6.html"
   hv-chart-7: "charts/7.html"
-  hv-chart-8: "charts/8.html"  
   hv-chart-9: "charts/9.html"
   hv-chart-10: "charts/10.html"    
   hv-chart-11: "charts/11.html"
@@ -57,10 +56,6 @@ Lastly, the measles incidence produced using the Holoviews package:
 Lastly, the measles incidence produced using the Holoviews package:
 <div id="hv-chart-7"></div>
 
-## Holoviews Example
-
-Lastly, the measles incidence produced using the Holoviews package:
-<div id="hv-chart-8"></div>
 
 ## Holoviews Example
 
