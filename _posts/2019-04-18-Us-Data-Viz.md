@@ -27,11 +27,8 @@ Here are some interacteable and interesting data visulisations obtained from dat
 The series of data visualisations below help visually analayse, compare and comprehend extensive data.
 Please Note : For most of these visualisations mean annual values are taken for each city.
 
+## All City Charts
 
-![dark]({{ site.url }}{{ site.baseurl }}/assets/images/dark.png)
-![dark1]({{ site.url }}{{ site.baseurl }}/assets/images/dark1.png)
-![dark2]({{ site.url }}{{ site.baseurl }}/assets/images/dark2.png)
-![dark3]({{ site.url }}{{ site.baseurl }}/assets/images/dark3.png)
 
 
 <div id="hv-chart-1"></div>
@@ -52,7 +49,10 @@ Please Note : For most of these visualisations mean annual values are taken for 
 <div id="hv-chart-4"></div>
 
 
-
+![dark]({{ site.url }}{{ site.baseurl }}/assets/images/dark.png)
+![dark1]({{ site.url }}{{ site.baseurl }}/assets/images/dark1.png)
+![dark2]({{ site.url }}{{ site.baseurl }}/assets/images/dark2.png)
+![dark3]({{ site.url }}{{ site.baseurl }}/assets/images/dark3.png)
 
 <div id="hv-chart-5"></div>
 
