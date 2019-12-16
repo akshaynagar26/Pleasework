@@ -17,7 +17,7 @@ hv-loader:
   hv-chart-10: "charts/10.html"    
   hv-chart-11: "charts/11.html"
   hv-chart-12: "charts/12.html"  
-  hv-chart-13: "charts/12.html"
+  hv-chart-13: "charts/13.html"
   hv-chart-14: "charts/14.html" 
 toc: true
 toc_sticky: true
