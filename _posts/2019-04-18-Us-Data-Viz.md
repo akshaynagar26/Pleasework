@@ -6,31 +6,18 @@ tags: [dataviz, altair, hvplot, holoviews]
 excerpt: "An Exercise for Data Mining, Processing  & Visualisation for key 10 US Cities"
 hv-loader:
   hv-chart-1: "charts/1.html"
-hv-loader:
   hv-chart-2: "charts/2.html"
-hv-loader:
   hv-chart-3: "charts/3.html"
-hv-loader:
   hv-chart-4: "charts/4.html"  
-hv-loader:
   hv-chart-5: "charts/5.html"
-hv-loader:
   hv-chart-6: "charts/6.html"
-hv-loader:
   hv-chart-7: "charts/7.html"
-hv-loader:
   hv-chart-8: "charts/8.html"  
-hv-loader:
   hv-chart-9: "charts/9.html"
-hv-loader:
   hv-chart-10: "charts/10.html"    
-hv-loader:
   hv-chart-11: "charts/11.html"
-hv-loader:
   hv-chart-12: "charts/12.html"  
-hv-loader:
   hv-chart-13: "charts/13.html"
-hv-loader:
   hv-chart-14: "charts/14.html" 
 toc: true
 toc_sticky: true
