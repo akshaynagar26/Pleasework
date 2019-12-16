@@ -27,67 +27,64 @@ Here are some interacteable and interesting data visulisations obtained from dat
 The series of data visualisations below help visually analayse, compare and comprehend extensive data.
 Please Note : For most of these visualisations mean annual values are taken for each city.
 
-Lastly, the measles incidence produced using the Holoviews package:
+
 <div id="hv-chart-1"></div>
 
 
 
-Lastly, the measles incidence produced using the Holoviews package:
+
 <div id="hv-chart-2"></div>
 
 
 
-Lastly, the measles incidence produced using the Holoviews package:
+
 <div id="hv-chart-3"></div>
 
 
 
-Lastly, the measles incidence produced using the Holoviews package:
+
 <div id="hv-chart-4"></div>
 
 
 
-Lastly, the measles incidence produced using the Holoviews package:
+
 <div id="hv-chart-5"></div>
 
 
 
-Lastly, the measles incidence produced using the Holoviews package:
+
 <div id="hv-chart-6"></div>
 
 
 
-Lastly, the measles incidence produced using the Holoviews package:
+
 <div id="hv-chart-7"></div>
 
 
 
 
-Lastly, the measles incidence produced using the Holoviews package:
+
 <div id="hv-chart-9"></div>
 
 
 
-Lastly, the measles incidence produced using the Holoviews package:
+
 <div id="hv-chart-10"></div>
 
 
 
-Lastly, the measles incidence produced using the Holoviews package:
+
 <div id="hv-chart-11"></div>
 
+
+
+<div id="hv-chart-12"></div>
 ## Select your City
 Select a city to see it's specific statistics.
-Lastly, the measles incidence produced using the Holoviews package:
-<div id="hv-chart-12"></div>
+
+<div id="hv-chart-13"></div>
 
 ## Compare Cities
 Click on the cities to activate or deactivate them and compare the ones you wish, or your shortlisted choices.
 
-Lastly, the measles incidence produced using the Holoviews package:
-<div id="hv-chart-13"></div>
-
-## Holoviews Example
-
-Lastly, the measles incidence produced using the Holoviews package:
 <div id="hv-chart-14"></div>
