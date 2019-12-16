@@ -21,63 +21,68 @@ hv-loader:
 toc: true
 toc_sticky: true
 ---
-## Holoviews Example
+## Real Estate Pricing , Rent & ROI for Major US Cities
+
+Here are some interacteable and interesting data visulisations obtained from data mining and cleaning zillow data, the visualisations are for majore 10 US Cities, and will help guide investors of different needs take appropriate decesions accroding to their investment pool size, bracket and long term or short term return and appetitie for risk.
+The series of data visualisations below help visually analayse, compare and comprehend extensive data.
+Please Note : For most of these visualisations mean annual values are taken for each city.
 
 Lastly, the measles incidence produced using the Holoviews package:
 <div id="hv-chart-1"></div>
 
-## Holoviews Example
+
 
 Lastly, the measles incidence produced using the Holoviews package:
 <div id="hv-chart-2"></div>
 
-## Holoviews Example
+
 
 Lastly, the measles incidence produced using the Holoviews package:
 <div id="hv-chart-3"></div>
 
-## Holoviews Example
+
 
 Lastly, the measles incidence produced using the Holoviews package:
 <div id="hv-chart-4"></div>
 
-## Holoviews Example
+
 
 Lastly, the measles incidence produced using the Holoviews package:
 <div id="hv-chart-5"></div>
 
-## Holoviews Example
+
 
 Lastly, the measles incidence produced using the Holoviews package:
 <div id="hv-chart-6"></div>
 
-## Holoviews Example
+
 
 Lastly, the measles incidence produced using the Holoviews package:
 <div id="hv-chart-7"></div>
 
 
-## Holoviews Example
+
 
 Lastly, the measles incidence produced using the Holoviews package:
 <div id="hv-chart-9"></div>
 
-## Holoviews Example
+
 
 Lastly, the measles incidence produced using the Holoviews package:
 <div id="hv-chart-10"></div>
 
-## Holoviews Example
+
 
 Lastly, the measles incidence produced using the Holoviews package:
 <div id="hv-chart-11"></div>
 
-## Holoviews Example
-
+## Select your City
+Select a city to see it's specific statistics.
 Lastly, the measles incidence produced using the Holoviews package:
 <div id="hv-chart-12"></div>
 
-## Holoviews Example
+## Compare Cities
+Click on the cities to activate or deactivate them and compare the ones you wish, or your shortlisted choices.
 
 Lastly, the measles incidence produced using the Holoviews package:
 <div id="hv-chart-13"></div>
