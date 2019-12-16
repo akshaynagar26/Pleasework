@@ -22,12 +22,12 @@ Please Note : Hexbin images in CSR and Philadelhpia brief focus section, are gen
 Here we see the correaltion matrix of importance factors across time.
 The first iamge is 2017-2018, followed buy 2018-2019, and the last is for this current year.
 
-
-![heatmap1]({{ site.url }}{{ site.baseurl }}/assets/images/heatmap1.png)2017-2018
-
-![heatmap2]({{ site.url }}{{ site.baseurl }}/assets/images/heatmap2.png)2018-2019
-
-![heatmap3]({{ site.url }}{{ site.baseurl }}/assets/images/heatmap3.png)2019-2020
+## 2017-2018
+![heatmap1]({{ site.url }}{{ site.baseurl }}/assets/images/heatmap1.png)
+## 2018-2019
+![heatmap2]({{ site.url }}{{ site.baseurl }}/assets/images/heatmap2.png)
+## 2019-2020
+![heatmap3]({{ site.url }}{{ site.baseurl }}/assets/images/heatmap3.png)
 
 ## Machine learning Patterns across time
 The following Charts shows importance factors as a result of machine learning for different time periods.
