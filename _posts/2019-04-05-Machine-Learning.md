@@ -6,21 +6,18 @@ tags: [dataviz, altair, hvplot, holoviews]
 excerpt: "An Extensive Machine Learning Exercise for different time periods as well as different price brackets."
 
 hv-loader:
-  hv-chart-11: "charts/gapminderChart.html"
+  hv-chart-1: "charts/ML1.html"
+  hv-chart-1: "charts/ML2.html"
 toc: true
 toc_sticky: true
 ---
 
-
-
-```python
-import altair as alt
-alt.renderers.enable('notebook')
-```
-
 ## Holoviews Example
 
 City Data
-<div id="hv-chart-11"></div>
+<div id="hv-chart-1"></div>
+
+City Data
+<div id="hv-chart-2"></div>
 
 
