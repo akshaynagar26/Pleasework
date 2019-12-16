@@ -28,6 +28,12 @@ The series of data visualisations below help visually analayse, compare and comp
 Please Note : For most of these visualisations mean annual values are taken for each city.
 
 
+![dark]({{ site.url }}{{ site.baseurl }}/assets/images/dark.png)
+![dark1]({{ site.url }}{{ site.baseurl }}/assets/images/dark1.png)
+![dark2]({{ site.url }}{{ site.baseurl }}/assets/images/dark2.png)
+![dark3]({{ site.url }}{{ site.baseurl }}/assets/images/dark3.png)
+
+
 <div id="hv-chart-1"></div>
 
 
