@@ -18,7 +18,7 @@ The model aims to prove that while traditional intution and knowledge based inve
 
 Please Note : Hexbin images in CSR and Philadelhpia brief focus section, are generated as partof to regrressions done in the machine learnig process, and hence the imporatnce of such factors can also be seen below in the charts.
 
-## Machine learning Patterns across time
+## Machine learning Patterns across time (correlations)
 Here we see the correaltion matrix of importance factors across time.
 The first iamge is 2017-2018, followed buy 2018-2019, and the last is for this current year.
 2017-2018
