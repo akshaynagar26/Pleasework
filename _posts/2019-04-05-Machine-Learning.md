@@ -7,7 +7,7 @@ excerpt: "An Extensive Machine Learning Exercise for different time periods as w
 
 hv-loader:
   hv-chart-1: "charts/ML1.html"
-  hv-chart-1: "charts/ML2.html"
+  hv-chart-2: "charts/ML2.html"
 toc: true
 toc_sticky: true
 ---
