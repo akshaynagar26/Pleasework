@@ -5,7 +5,7 @@ categories:
   - blog
 excerpt: "An Exercise for Data Mining, Processing  & Visualisation for key 10 US Cities"
 hv-loader:
-  hv-chart-1: "1.html"
+  hv-chart-1: "["charts/1.html", "400"]"
 tags:
   - Github Page
   - update
