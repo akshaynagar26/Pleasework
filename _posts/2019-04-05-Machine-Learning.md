@@ -11,12 +11,12 @@ toc: true
 toc_sticky: true
 ---
 ## Machine learning 
-Our Machine Learning algorithm or exercise is based across different periods if time and different investment sizes.
-Ittakes into account various numeric and categorical data as well as spatial data and city features to perform and run a thorough machine learning moodel.
-The model aims to prove that while traditional intution and knowledge based investors have a general understnading of city with time and pricing, and if it changes doesnt specifically, machine learning mdoels can give clear,precise and objective answers and patterns of factors that shape pricing models across time and different price range.
+Our Machine Learning algorithm or exercise is based across different periods of time and different investment sizes.
+It takes into account various numeric and categorical data as well as spatial data and city features to perform and run a thorough machine learning moodel.
+The model aims to prove that while traditional intution and knowledge based investors have a general understanding of city with time and pricing, and if it changes doesnt specifically, machine learning mdoels can give clear,precise and objective answers and patterns of factors that shape pricing models across time and different price range.
 
 
-Please Note : Hexbin images in CSR and Philadelhpia brief focus section, are generated as partof to regrressions done in the machine learnig process, and hence the imporatnce of such factors can also be seen below in the charts.
+Please Note : Hexbin images in CSR and Philadelhpia brief focus section, are generated as part of the regressions done in the machine learnig process, and hence the imporatnce of such factors can also be seen below in the charts.
 
 ## Machine learning Patterns across time (correlations)
 Here we see the correaltion matrix of importance factors across time.
